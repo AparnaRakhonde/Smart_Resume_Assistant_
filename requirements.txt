@@ -1,0 +1,12 @@
+PyPDF2
+streamlit
+crewai
+python-dotenv
+pymupdf
+langchain
+langchain-community
+python-docx
+pdfplumber
+pandas
+scikit-learn
+openai
